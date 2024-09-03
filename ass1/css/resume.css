@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: #3f284c;
+}
+p.double {
+    outline-style: double;
+}
+img{
+    float: right;
+    width: 150;
+    height: 150;
+}
+.name{
+    float: right;
+}
+.place{
+    float: left;
+}
+div {
+    
+    background-color:#ffc6f4;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
